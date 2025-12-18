@@ -29,8 +29,8 @@ The project follows a production-grade MLOps structure, separating experimentati
 ├── notebooks/           # 📓 Jupyter Notebooks for Experiments
 ├── training/            # 🏋️ Training Scripts & Documentation
 └── requirements.txt     # Python dependencies
-
-🧠 Models Overview
+```
+### 🧠 Models Overview
 
 The system implements two distinct approaches. You can switch between them based on your need for speed vs. complexity.
 🤖 1. ML Model (Gradient Boosting)
