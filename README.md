@@ -55,8 +55,10 @@ The system implements two distinct approaches. You can switch between them based
 
 🔌 API Documentation
 POST /predict
+<img width="1442" height="621" alt="image" src="https://github.com/user-attachments/assets/69709900-e306-4c3c-96bc-7a8d1c1dc109" />
 
 Generates a coverage prediction score.
+<img width="1442" height="621" alt="image" src="https://github.com/user-attachments/assets/d0462156-b5d1-4ce9-bee8-e974e84508f3" />
 
 Endpoint: http://localhost:8000/predict
 Request Body (JSON)
