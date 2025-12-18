@@ -1,0 +1,16 @@
+# --- Core ML Libraries (Explicitly used in your code) ---
+pandas
+numpy
+torch
+matplotlib
+
+# --- Your Exact Versions (From pip-chill) ---
+scikit-learn==1.7.2
+seaborn==0.13.2
+torchvision==0.24.1
+
+# --- Other Utilities from your environment (Optional but good to keep) ---
+fastapi==0.124.4
+uvicorn==0.38.0
+jupyter==1.1.1
+streamlit==1.52.1

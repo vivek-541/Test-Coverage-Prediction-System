@@ -1,0 +1,22 @@
+# Data Manipulation & Math (Imported in your code)
+pandas
+numpy
+matplotlib
+
+# Machine Learning & Visualization (From your pip-chill)
+scikit-learn==1.7.2
+seaborn==0.13.2
+scienceplots==2.2.0
+
+# Web Apps & APIs (From your pip-chill)
+streamlit==1.52.1
+fastapi==0.124.4
+uvicorn==0.38.0
+
+# AI & LLM Utilities (From your pip-chill)
+ollama==0.6.1
+torchvision==0.24.1
+
+# Notebooks & Utils (From your pip-chill)
+jupyter==1.1.1
+pip-chill==1.0.3

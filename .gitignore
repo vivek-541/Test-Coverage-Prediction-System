@@ -1,0 +1,15 @@
+# Python internals
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (Must ignore this)
+venv/
+env/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
