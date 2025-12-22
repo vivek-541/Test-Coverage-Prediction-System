@@ -887,7 +887,7 @@ MIT License - see LICENSE file for details.
 ## 📧 Contact
 
 Questions or feedback? Open an issue or reach out:
-- GitHub Issues: [Create Issue](https://github.com/yourusername/test-coverage-prediction/issues)
+- GitHub Issues: [Create Issue](https://github.com/vivek-541/Test-Coverage-Prediction-System/issues)
 - Email: vivekchary541@gmail.com
 
 ---
