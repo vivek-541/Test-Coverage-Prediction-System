@@ -657,14 +657,14 @@ ls artifacts/dl/test_coverage_pytorch_working.pkl
 ```
 
 ### Run the API
-
+![alt text](<Screenshot from 2025-12-18 06-25-53.png>)
 **Option 1: ML Model (Fast, Production-ready)**
 ```bash
 python app.py
 # API runs on http://localhost:8001
 # Docs: http://localhost:8001/docs
 ```
-
+![alt text](<Screenshot from 2025-12-18 06-29-06.png>)
 **Option 2: DL Model (More Accurate)**
 ```bash
 python app_dl.py
